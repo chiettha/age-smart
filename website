@@ -23,7 +23,7 @@
     }
 
     header img {
-        max-width: 200px;
+        max-width: 500px;
     }
 
     .container {
@@ -88,7 +88,7 @@
 
     /* Callout section */
     .highlight-box {
-        background: #fdecee;
+        background: #e9eef6;
         padding: 25px;
         border-radius: 10px;
         text-align: center;
@@ -124,6 +124,13 @@
         font-size: 14px;
         margin-top: 20px;
     }
+    
+    footer img {
+    max-width: 250px;   /* adjust size here */
+    width: 100%;
+    height: auto;
+    }
+
 </style>
 </head>
 
@@ -131,12 +138,11 @@
 
 <header>
     <!-- Replace with your logo -->
-    <img src="https://braincleanzzz.au/assets/images/logo.png" alt="Brain Cleaning">
+    <img src="https://github.com/chiettha/age-smart/blob/main/AGE-SMART%20Logo_TransparentBG.png?raw=true" alt="AGE-SMART_Logo">
 </header>
 
 <div class="banner">
-    <h1>AGE-SMART Study: User Preferences for Sleep Monitoring Technologies in Older Adults</h1>
-    <h3>Ageing Groups' Experience with Sleep Monitoring And Related Technologies</h3>
+    <h1><u>A</u>geing <u>G</u>roups' <u>E</u>xperience with <u>S</u>leep <u>M</u>onitoring <u>A</u>nd <u>R</u>elated <u>T</u>echnologies</h1>
     <p>Woolcock Institute of Medical Research</p>
 </div>
 
@@ -156,15 +162,15 @@
         <h2>Who Can Participate?</h2>
         <div class="card-grid">
             <div class="card">
-                <img src="https://braincleanzzz.au/assets/images/img1.png">
+                <img src="https://github.com/chiettha/age-smart/blob/main/AGE-SMART%20Website-1_circle.png?raw=true">
                 <p>Aged 50 years or older</p>
             </div>
             <div class="card">
-                <img src="https://braincleanzzz.au/assets/images/img2.png">
+                <img src="https://github.com/chiettha/age-smart/blob/main/AGE-SMART%20Website-2_circle.png?raw=true">
                 <p>Live in Australia</p>
             </div>
             <div class="card">
-                <img src="https://braincleanzzz.au/assets/images/img3.png">
+                <img src="https://github.com/chiettha/age-smart/blob/main/AGE-SMART%20Website-3_circle.png?raw=true">
                 <p>Experience sleep disturbance</p>
             </div>
         </div>
@@ -203,6 +209,8 @@
 </div>
 
 <footer>
+<img src="https://github.com/chiettha/age-smart/blob/main/Woolcock_Logo_HQ.png?raw=true" alt="Woolcock_Logo">
+<img src="https://github.com/chiettha/age-smart/blob/main/MQ_Logo_Shorter.png?raw=true" alt="MQ_Logo">
     <p>Woolcock Institute of Medical Research © 2026</p>
 </footer>
 
